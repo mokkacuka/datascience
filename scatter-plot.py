@@ -23,7 +23,7 @@ df.variable2 = pd.to_numeric(df.Likes)
 maxValueX = df.variable1.max()
 maxValueY = df.variable2.max()
 
-# Draw median (median values have beeen calculated externally)
+# Draw median (median values have beeen calculated externally) - Not mandatory
 plt.axvline(56, color='r')
 plt.axhline(93, color='r')
 
