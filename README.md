@@ -10,3 +10,6 @@ This script takes a CSV file for input and generates a scatter plot (two variabl
 
 ## categorical-scatter-plot.py
 This script takes a CSV file for input and generates a scatter plot (categorical variables analysis).
+
+## bivariate-density.py
+This script takes a CSV file for input and generates a density map (two variables analysis).
