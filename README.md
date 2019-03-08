@@ -1,4 +1,4 @@
-# datascience
+# datascience basics
 Data manipulation, processing and rendering scripts with Python using the following libraries:
 
 * numpy
