@@ -1,5 +1,11 @@
 # datascience
-Data manipulation, processing and rendering scripts
+Data manipulation, processing and rendering scripts with Python using the following libraries:
+
+* numpy
+* pandas
+* seaborn
+* matplotlib
+* scipy
 
 ## correlation-matrix.py
 This script takes a CSV file for input and generates a correlation matrix (multivariable analysis).
