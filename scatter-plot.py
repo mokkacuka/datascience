@@ -17,7 +17,7 @@ df.variable1.apply(np.round)
 
 # Turn column's values from str to int - Not mandatory (depends on variable type)
 # Replace variable1 by the name of a variable of source file
-df.variable2 = pd.to_numeric(df.Likes)
+df.variable1 = pd.to_numeric(df.variable1)
 
 # Get the maximum value of the variable and add 10%
 maxValueX = df.variable1.max()
